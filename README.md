@@ -30,7 +30,8 @@ El objetivo es **acercar la biodiversidad del campus a la comunidad estudiantil*
 │   ├── prueba_foto_planta.png
 │   └── prueba_sin_foto.png
 ├── video/
-│   └── enlace.txt            ← link de YouTube con la prueba en vivo
+│   ├── enlace.txt            ← link de YouTube con la prueba en vivo
+│   └── enlace.md             ← mismo link, clickeable
 └── resultados/
     └── Resultados_Biodiversidad.pdf
 ```
@@ -77,7 +78,7 @@ Los filtros son mutuamente excluyentes, así que cada mensaje sigue **solo una**
 
 ![Prueba sin foto](imagenes/prueba_sin_foto.png)
 
-**Video de la prueba en vivo:** https://youtube.com/shorts/o9HT8_l86RE
+**Video de la prueba en vivo:** [▶️ Ver video en YouTube](https://youtube.com/shorts/o9HT8_l86RE)
 
 ## 5. Preguntas de reflexión
 
